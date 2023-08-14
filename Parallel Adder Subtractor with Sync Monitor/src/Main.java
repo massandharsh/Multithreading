@@ -9,7 +9,7 @@ public class Main {
             System.out.println("");
             System.out.println("Before start : ");
             System.out.println("count1 : " + count.getValue()  +"   count2 is : " + count2.getValue());
-
+            System.out.print("args");
             Adder adder = new Adder(count, count2);
             Subtractor subtractor = new Subtractor(count, count2);
 
