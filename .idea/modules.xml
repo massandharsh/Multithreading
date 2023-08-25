@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adding numbers using thread/Adding numbers using thread.iml" filepath="$PROJECT_DIR$/Adding numbers using thread/Adding numbers using thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading Adder Sub/Multithreading Adder Sub.iml" filepath="$PROJECT_DIR$/Multithreading Adder Sub/Multithreading Adder Sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parallel Adder Subtractor/Parallel Adder Subtractor.iml" filepath="$PROJECT_DIR$/Parallel Adder Subtractor/Parallel Adder Subtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parallel Adder Subtractor with Sync Monitor/Parallel Adder Subtractor with Sync Monitor.iml" filepath="$PROJECT_DIR$/Parallel Adder Subtractor with Sync Monitor/Parallel Adder Subtractor with Sync Monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parallel Quick Sort/Parallel Quick Sort.iml" filepath="$PROJECT_DIR$/Parallel Quick Sort/Parallel Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelMergeSort/ParallelMergeSort.iml" filepath="$PROJECT_DIR$/ParallelMergeSort/ParallelMergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer Consumer Problem/Producer Consumer Problem.iml" filepath="$PROJECT_DIR$/Producer Consumer Problem/Producer Consumer Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer Consumer Problem Solution via Mutex/Producer Consumer Problem Solution via Mutex.iml" filepath="$PROJECT_DIR$/Producer Consumer Problem Solution via Mutex/Producer Consumer Problem Solution via Mutex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer Consumer Problem Solution via Semaphores/Producer Consumer Problem Solution via Semaphores.iml" filepath="$PROJECT_DIR$/Producer Consumer Problem Solution via Semaphores/Producer Consumer Problem Solution via Semaphores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential Adder Subtractor/Sequential Adder Subtractor.iml" filepath="$PROJECT_DIR$/Sequential Adder Subtractor/Sequential Adder Subtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential Quick Sort/Sequential Quick Sort.iml" filepath="$PROJECT_DIR$/Sequential Quick Sort/Sequential Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequential_MergerSort/Sequential_MergerSort.iml" filepath="$PROJECT_DIR$/Sequential_MergerSort/Sequential_MergerSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Square of Numbers/Square of Numbers.iml" filepath="$PROJECT_DIR$/Square of Numbers/Square of Numbers.iml" />
+    </modules>
+  </component>
+</project>

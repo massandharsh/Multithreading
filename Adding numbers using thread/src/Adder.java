@@ -7,14 +7,12 @@ public class Adder implements Runnable {
         this.b = b;
     }
 
-    public Adder(){
-    }
 
     @Override
     public void run() {
         System.out.println("Thread :" + Thread.currentThread().getName() + " Hello I am Adder Class");
         System.out.println("The result of sum is mentioned below");
-        System.out.println("Result : " + this.a + this.b);
+        System.out.println("Result : " + (this.a + this.b) );
         System.out.println("Thread :" + Thread.currentThread().getName() + " Ending Adder Class");
     }
 }
