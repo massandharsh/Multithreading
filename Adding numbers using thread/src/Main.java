@@ -10,7 +10,7 @@ public class Main {
         System.out.print("enter 2 nd number : ");
         int b = sc.nextInt();;
 
-        Runnable r1 = new Adder();
+        Runnable r1 = new Adder(a,b);
         Thread t1 = new Thread(r1);
         t1.start();
         System.out.println("Bye Bye Main Method");
